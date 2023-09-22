@@ -1,0 +1,81 @@
+ Header :
+Logo 
+
+Blog
+Projects
+Contact
+
+Logo + Link = Github Twitter Linkdin.
+
+----
+heading:
+I’m Alex Naraghi.
+
+p:
+I write code for video games.
+Cross-platform.
+Generalist.
+2D. 3D.
+Professional.
+-----
+
+1 img :
+ARMAJET
+
+----
+2 img :
+WILD THINGS - ANIMAL ADVENTURE
+
+---
+3 img :
+CLASH OF CLONES PROTOTYPE
+
+----
+4 img :
+TETRIS BLITZ
+
+------
+5 img :
+TETRIS ULTIMATE
+
+
+
+------
+
+
+h3 :
+
+I love trying out new crafts and mastering old ones.
+
+-----------
+
+subtitle :
+Side Projects
+
+
+------
+
+p :
+
+At any point in time I have some kind of R&D going on. In my free time I enjoy making RTS games, VR prototypes, and testing cool new game development frameworks. Lately I’ve been expanding my horizons with Unity’s DOTS/Entity Component system and pixel art with 2D lighting. 
+
+You can find the latest on my blog and on GitHub.
+
+
+
+-------------
+
+green div :
+Want my Resume?
+
+Download
+
+---------
+
+
+footer :
+
+wifi logo :Blog RSS
+
+Logo + Link = Github Twitter Linkdin.
+ 

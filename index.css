@@ -1,0 +1,117 @@
+.right-icon{
+    padding: 30px 2px 1px 2px !important;
+}
+.header{
+    padding: 20px 10px;
+}
+.right-text{
+    padding: 8px 6px !important;
+}
+.intro{
+    padding: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.intro > h2 {
+    margin-bottom: 32px;
+   
+    font-size: 3rem;
+
+}
+.intro  p {
+    text-decoration: black;
+    font-size: 1.2rem;
+
+}
+
+#div1{
+    display: flex;
+   
+}
+#div2{
+    display: flex;
+}
+#div-3{
+    display: flex;
+}
+.info {
+    padding: 40px;
+}
+.resume{
+    padding: 40px;
+}
+.col {
+    width: 50%;
+    margin: 5px;
+}
+ .img-5 {
+    width: 90%;
+    height: 250px;
+    object-fit: cover;
+    align-self: center;
+}
+.card {
+    border: none !important;
+    box-shadow: none !important;
+}
+.card-text {
+    font-size: 1.5rem;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: underline;
+    padding: 25px;
+font-weight: 620 !important;
+}
+.info {
+    padding: 67px 40px;
+    text-align: center;
+}
+.info > h3 {
+    padding: 40px;
+    font-size: 2.3rem;
+    font-family: cursive;
+}
+.info-2 > h5 {
+    margin-bottom: 32px;
+    font-size: 1.8rem;
+}
+  .p-1 {
+    text-align: center;
+    margin: 1rem 0;
+    padding: 48px;
+    font-weight: 490;
+    line-height: 27px;
+    color: black;
+}
+.p-2{
+    padding: 0px;
+}
+.empty {
+padding: 25px;
+}
+.resume {
+    background-color: hsl(116 68% 64% / 1);
+    text-align: center;
+    padding: 33px 40px;
+}
+.resume h3 {
+    padding: 17px;
+    font-size: 2rem;
+    font-family: inherit;
+}
+.resume button {
+    text-align: center;
+    padding: 17px;
+    background: black;
+    color: white;
+    width: 15%;
+    height: 60px;
+}
+.footer {
+    
+    padding: 33px 40px;
+}
+.footer-icons {
+    display: flex;
+    justify-content: flex-end !important;
+}
